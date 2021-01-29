@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "795228005193",
+    "firebase_url": "https://messystart-7d234.firebaseio.com",
+    "project_id": "messystart-7d234",
+    "storage_bucket": "messystart-7d234.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:795228005193:android:75c41c4fb7850d10467098",
+        "android_client_info": {
+          "package_name": "com.example.messystart2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "795228005193-mcgkthvubcqjj9mipb4pbm3cd5opeugr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.messystart2",
+            "certificate_hash": "17b2bd83fc8f9f027098af1a37ac2d5f88dc1275"
+          }
+        },
+        {
+          "client_id": "795228005193-jfnorgjp7ejonghbur3bq4rjto7jt7d9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0uaOMOlsPJUALr3q5TOEBpZbH5u79JKM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "795228005193-jfnorgjp7ejonghbur3bq4rjto7jt7d9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
