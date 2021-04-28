@@ -1,4 +1,4 @@
-# MessyStart2
+# PPF Plant Tracker
 
 1. What the Project Does:
 This app was made to manage various plants for a friend's company. It allows for various plants with all their relevant information to be added into a firebase database and stored for later.
