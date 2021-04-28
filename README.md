@@ -20,3 +20,6 @@ password: T3st1ng2
 Sign-In for the app to be able to login and begin using the app:
 username: messystart2@gmail.com
 password: T3st1ng2
+
+Link to the database:
+https://messystart-7d234.firebaseio.com/
